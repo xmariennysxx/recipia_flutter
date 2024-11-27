@@ -1,0 +1,1 @@
+const spoonacularApi = '8f1f06330d3241398b11813dbb40f5cd';
